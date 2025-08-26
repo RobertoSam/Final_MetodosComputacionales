@@ -1,25 +1,15 @@
+
 # Final_MetodosComputacionales
 
-Este repositorio contiene las soluciones a los tres casos planteados en la evaluación final del curso de **Métodos Computacionales**.
+Este repositorio contiene tres notebooks con soluciones completas a los casos de la evaluación final.
 
-## 🔍 Casos Analizados
+## Casos
 
-### 1. Churn de Clientes en Telecomunicaciones
-- **Objetivo:** Predecir si un cliente se dará de baja.
-- **Notebook:** `Caso1_Churn.ipynb`
-- **Colab:** [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso1_Churn.ipynb)
+1. **Churn de Clientes en Telecomunicaciones**  
+   [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso1_Churn.ipynb)
 
-### 2. Predicción de Diabetes
-- **Objetivo:** Identificar pacientes con riesgo de diabetes.
-- **Notebook:** `Caso2_Diabetes.ipynb`
-- **Colab:** [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso2_Diabetes.ipynb)
+2. **Predicción de Diabetes**  
+   [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso2_Diabetes.ipynb)
 
-### 3. Rendimiento Escolar en Matemáticas
-- **Objetivo:** Predecir la nota final G3 de estudiantes.
-- **Notebook:** `Caso3_Rendimiento.ipynb`
-- **Colab:** [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso3_Rendimiento.ipynb)
-
-...
-
-
-
+3. **Predicción del Rendimiento Escolar**  
+   [Abrir en Colab](https://colab.research.google.com/github/RobertoSam/Final_MetodosComputacionales/blob/main/Caso3_Rendimiento.ipynb)
