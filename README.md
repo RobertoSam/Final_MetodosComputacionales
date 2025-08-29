@@ -1,7 +1,7 @@
 
 # Final_MetodosComputacionales
 
-Este repositorio contiene tres notebooks con soluciones completas a los casos de la evaluación final.
+Soluciones completas a los tres casos de la evaluación final, con carga de datos desde GitHub (branch `main`) o fallback local.
 
 ## Casos
 
